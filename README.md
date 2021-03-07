@@ -1,0 +1,2 @@
+# nkccoin.-.-
+Decentralized currency
